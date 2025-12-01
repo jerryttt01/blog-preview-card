@@ -10,7 +10,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ## 🔗 Links
 
 - **Solution URL:** https://github.com/jerryttt01/blog-preview-card
-- **Live Site URL:** 
+- **Live Site URL:** https://jerryttt01.github.io/blog-preview-card/
 
 ## 🚀 Overview
 
